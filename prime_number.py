@@ -2,7 +2,7 @@
 
 num = 24
 
-if num ==1:
+if num == 1:
     print(num, "is not a prime number")
 elif num >1:
     for i in range (2,num):
