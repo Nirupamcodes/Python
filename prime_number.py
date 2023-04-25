@@ -1,8 +1,8 @@
-#wap to check if a number is prime or not.
+#wap to check if a number is prime or not
 
 num = 24
 
-if num == 1:
+if num ==1:
     print(num, "is not a prime number")
 elif num >1:
     for i in range (2,num):
@@ -12,4 +12,4 @@ elif num >1:
         else:
             print(num,"it is prime")
             break
-    
+
