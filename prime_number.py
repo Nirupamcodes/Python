@@ -1,4 +1,4 @@
-#wap to check if a number is prime or not
+#wap to check if a number is prime or not.
 
 num = 24
 
